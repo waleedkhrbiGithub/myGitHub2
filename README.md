@@ -1,4 +1,2 @@
-hi
-hi
 hello
-
+hello
