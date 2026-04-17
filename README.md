@@ -1,8 +1,4 @@
-
-
-
 hi
 hi
-
 hello
 
